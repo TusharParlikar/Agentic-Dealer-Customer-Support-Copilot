@@ -1,0 +1,34 @@
+# Secrets and local config
+.env
+.claude/settings.local.json
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Trained model and runtime data (rebuilt locally)
+models/
+*.joblib
+*.db
+*.db-journal
+
+# Downloaded third-party data: run `python -m app.ingest.fetch_data` to get it
+store_data/raw/
+store_data/manuals/
+store_data/policies/
+store_data/images/
+# Built by `python -m app.ingest.ingest`
+store_data/index/
+store_data/product_patterns.jsonl
+
+# Tools, editors, OS
+.streamlit/secrets.toml
+graphify-out/
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
