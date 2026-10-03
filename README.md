@@ -253,14 +253,14 @@ Test cases are in `eval/testset.json`. Every expected page was checked against t
 | NLP | Entities exact match (20 labelled messages): headcount, budget | 95%, 95% |
 | NLP | Entities exact match: meeting rooms, products, location | 100%, 100%, 100% |
 | GenAI | Retrieval hit@4: right page in top 4 (25 questions) | 25/25 = 100% |
-| GenAI | Citation accuracy: answer cites the right page | 20/25 = 80% |
+| GenAI | Citation accuracy: answer cites the right page | 23/25 = 92% |
 | GenAI | Office plan: headcount, rooms and budget extracted exactly (8 requests) | 8/8 = 100% |
 | GenAI | Ticket issue type / escalation correct (12 complaints) | 12/12, 12/12 |
-| Latency | Tool call p50 / p95, qwen3:1.7b on CPU | 8.8 s / 19.8 s |
+| Latency | Tool call p50 / p95, qwen3:1.7b on CPU | 8.8 s / 19.8 s on an idle CPU; 21.6 s / 55.0 s with the API and UI servers running |
 
 **Known misses** (full list in `eval/results.md`):
 
-- **Citations (5 of 25).** In 2 of the 5, the question names no product ("range of the remote control"), so the search covers all manuals and lands in the wrong one. In 3 of the 5, the LLM cites a neighbouring page (p.30 instead of p.31–34).
+- **Citations (2 of 25).** The LLM cites a neighbouring page: p.3 instead of p.4 for error E01, and p.30/35/36 instead of p.31–34 for stove clearances.
 - **Budget with two amounts.** In *"1.5 crore is too much, keep it under 9 lakh"* the larger amount is taken as the budget.
 - **Headcount with a word in between.** *"18 Skarsta desks"*: the headcount regex needs the number right next to "desks".
 
