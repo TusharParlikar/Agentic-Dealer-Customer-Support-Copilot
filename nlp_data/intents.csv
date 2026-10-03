@@ -1,0 +1,595 @@
+text,intent,source
+can I place an ordewr from it?,PRODUCT_QA,bitext
+help to check what methods for delivery i have,PRODUCT_QA,bitext
+do you shp to it?,PRODUCT_QA,bitext
+is it possible to place an order from it?,PRODUCT_QA,bitext
+I am trying to check what delivery methods you offer,PRODUCT_QA,bitext
+wanna see what delivery options are there i need help,PRODUCT_QA,bitext
+"I need to see what delivery methods you offer, help me",PRODUCT_QA,bitext
+show me what shipping options you offer,PRODUCT_QA,bitext
+I want information about the delivery methods,PRODUCT_QA,bitext
+I have got to check what delivery methods are there,PRODUCT_QA,bitext
+is it possible to ordet from it,PRODUCT_QA,bitext
+i need help seeing the delivery methods,PRODUCT_QA,bitext
+I don't know how to check what shipment methods you offer,PRODUCT_QA,bitext
+is it possible to place an order from it,PRODUCT_QA,bitext
+shipping to it,PRODUCT_QA,bitext
+information about the options for shipping,PRODUCT_QA,bitext
+do ya deliver to it,PRODUCT_QA,bitext
+is it possible to check what shipping methods I have?,PRODUCT_QA,bitext
+would it be possible to see what shipping options are there?,PRODUCT_QA,bitext
+I'm looking for the options for delivery can i get some help,PRODUCT_QA,bitext
+is it possible to place na order from it,PRODUCT_QA,bitext
+do you edliver to it?,PRODUCT_QA,bitext
+can i order from it,PRODUCT_QA,bitext
+do you ship to it?,PRODUCT_QA,bitext
+do ya deliver to it,PRODUCT_QA,bitext
+I have to check what shipment methods you offer,PRODUCT_QA,bitext
+I have got to see what shipment options I can choose,PRODUCT_QA,bitext
+is it plssible to order from it?,PRODUCT_QA,bitext
+do uship to it,PRODUCT_QA,bitext
+need help to check what methods for delivery i have,PRODUCT_QA,bitext
+is it possible to place an order from it?,PRODUCT_QA,bitext
+I need help to check what shipment methods are there,PRODUCT_QA,bitext
+i have to check the shipment methods i need assistance,PRODUCT_QA,bitext
+is it possible to place an order from it,PRODUCT_QA,bitext
+can you help me checking what shipping options I have?,PRODUCT_QA,bitext
+how to see what methods for delivery I can choose?,PRODUCT_QA,bitext
+is it possible to place na order from it,PRODUCT_QA,bitext
+"I have to see what delivery options you offer, help me",PRODUCT_QA,bitext
+check the available methods for delivery,PRODUCT_QA,bitext
+deliverids to it,PRODUCT_QA,bitext
+I try to check in which situations can I ask for a refund,PRODUCT_QA,bitext
+need assistance to check ur reimbursement policy,PRODUCT_QA,bitext
+I need help seeing in which cases can I ask for a reufnd,PRODUCT_QA,bitext
+how to check ur refund policy,PRODUCT_QA,bitext
+need assistance seeing in which cases can i request a refund,PRODUCT_QA,bitext
+help me check in which cvases can i ask for my money back,PRODUCT_QA,bitext
+i want help to check in what cases can i request refunds,PRODUCT_QA,bitext
+need help to see in which situations can I request a refund,PRODUCT_QA,bitext
+can you help me checking your reimbursement policy?,PRODUCT_QA,bitext
+help me to see in which cases can i ask for my money back,PRODUCT_QA,bitext
+I want to check in what situations can I request a refund,PRODUCT_QA,bitext
+is it possible to seeur money back policy,PRODUCT_QA,bitext
+help me see in what cases can i request to be  reimbursed,PRODUCT_QA,bitext
+are the charges of your services refundable?,PRODUCT_QA,bitext
+in which cases can i request to be refunded,PRODUCT_QA,bitext
+"I have to see your refund policy, will you help me?",PRODUCT_QA,bitext
+could I see your reimbursement policy?,PRODUCT_QA,bitext
+I want to see in what cases can I ask to be reimbursed,PRODUCT_QA,bitext
+are service charges reimbursable?,PRODUCT_QA,bitext
+is it possible to see in which cases can i ask for refunds,PRODUCT_QA,bitext
+I have to see your refund policy,PRODUCT_QA,bitext
+i dont know what to doto check ur money back policy,PRODUCT_QA,bitext
+are charges for services reimbursable,PRODUCT_QA,bitext
+"I need to check your reimbursement policy, will you help me?",PRODUCT_QA,bitext
+need to see in what situations can i ask for a reimbursement,PRODUCT_QA,bitext
+"I have got to see your refund policy, how could I do it?",PRODUCT_QA,bitext
+I'd like to see ur money back guarantee how to do it,PRODUCT_QA,bitext
+I need to see your refund policy,PRODUCT_QA,bitext
+i have got to ceck ur money back guarantee i need help,PRODUCT_QA,bitext
+I want to see under what circumstances can I request refunds,PRODUCT_QA,bitext
+help checking in what cases can I request a refund,PRODUCT_QA,bitext
+want help seeing in which situations can I ask for a refund,PRODUCT_QA,bitext
+show me in which situations can i request refunds,PRODUCT_QA,bitext
+can I see in which cases can I request a refund?,PRODUCT_QA,bitext
+I need help seeing your money back guarantee,PRODUCT_QA,bitext
+help seeing in which cases can I request to be refunded,PRODUCT_QA,bitext
+i have to see in what cases can i ask for reimbursements,PRODUCT_QA,bitext
+can i check how long refunds usually take,PRODUCT_QA,bitext
+see in whnich situations can I request my money back,PRODUCT_QA,bitext
+want help to see in what cases can i ask for reimbursements,PRODUCT_QA,bitext
+I am tring to see the early exit penalty,PRODUCT_QA,bitext
+check cancellation fee,PRODUCT_QA,bitext
+I do not know how to check the cancellation charge,PRODUCT_QA,bitext
+I want help to see the early exit fees,PRODUCT_QA,bitext
+checking early exit fee,PRODUCT_QA,bitext
+i have to check the cancellation penalty,PRODUCT_QA,bitext
+I don't know what I have to do to see the termination fees,PRODUCT_QA,bitext
+I have got to check the early exit fee,PRODUCT_QA,bitext
+help seeing the withdrawal fee,PRODUCT_QA,bitext
+"I cannot find the termination penalty, can I get some help?",PRODUCT_QA,bitext
+how do I check the termination charge?,PRODUCT_QA,bitext
+will you show me the early exit charges?,PRODUCT_QA,bitext
+see early exit penalties,PRODUCT_QA,bitext
+where could I check the goddamn cancellation charge?,PRODUCT_QA,bitext
+can you help me see the withdrawal penalty?,PRODUCT_QA,bitext
+what is the early exit penalty,PRODUCT_QA,bitext
+i have got to check the early exit fee can uhelp me,PRODUCT_QA,bitext
+seeing withdrawal penalty,PRODUCT_QA,bitext
+i cannot find the early termination chaarges,PRODUCT_QA,bitext
+I want assistance to check the early exit penalty,PRODUCT_QA,bitext
+I have to make a consumer reclamation against your company,SUPPORT,bitext
+could you help me file a customer reclamation?,SUPPORT,bitext
+where to lodge a complaint?,SUPPORT,bitext
+file customerr claim,SUPPORT,bitext
+assistance to file a claim,SUPPORT,bitext
+assistance to file a customer claim,SUPPORT,bitext
+I do not know what I have to do to make a reclamation,SUPPORT,bitext
+"I need to make a damn consumer complaint, how could I do it?",SUPPORT,bitext
+can you help me lodging a claim against your business ?,SUPPORT,bitext
+help to make a customer complaint,SUPPORT,bitext
+want assistance to lodge a complaint against your business,SUPPORT,bitext
+help to file a complaint against ur company,SUPPORT,bitext
+I need to lodge a consumer claim,SUPPORT,bitext
+want help to make a complaint,SUPPORT,bitext
+I don't know what to do to file a recpamation,SUPPORT,bitext
+can uhelp me lodgin a reclamation against ur business,SUPPORT,bitext
+help me to make a consumer complaint against your business,SUPPORT,bitext
+could I make a goddamn reclamation?,SUPPORT,bitext
+I am trying to lodge a customer reclamation,SUPPORT,bitext
+can you help me lodge a complaint against your organization?,SUPPORT,bitext
+where to see the bloody ETA of the order it,SUPPORT,bitext
+checking status of order it,SUPPORT,bitext
+see purchase it current status,SUPPORT,bitext
+how can i see order it status,SUPPORT,bitext
+help seeing the ETA of order it,SUPPORT,bitext
+help to see thje ETA of purchase it,SUPPORT,bitext
+i do not kno what to do to locate purchase it,SUPPORT,bitext
+assistance to see order it current status,SUPPORT,bitext
+see order it fucking current status,SUPPORT,bitext
+I want help seeing the status of order it,SUPPORT,bitext
+i do not know how to see the eta of the order it,SUPPORT,bitext
+"I want to track purchase it, I need help",SUPPORT,bitext
+I need assistance checking how soon can I expect my delivery,SUPPORT,bitext
+help to check how soon can I expect my shipment,SUPPORT,bitext
+is it possible to check when my shipment is going to arrive?,SUPPORT,bitext
+is it possible to see when my product is going to arrive?,SUPPORT,bitext
+I'm calling to check whenb will my item arrive,SUPPORT,bitext
+is it possible to check how soon can I expect the item?,SUPPORT,bitext
+"I have to see when my item is going to arrive, help me",SUPPORT,bitext
+need help to see how long it takes for my parcel to arrive,SUPPORT,bitext
+I want to see when will my product arrive,SUPPORT,bitext
+where do i check how long it takes for my shipment to arrive,SUPPORT,bitext
+need assistance seeing how soon can i expect my article,SUPPORT,bitext
+assistance checking when my purchase is gonna arrive,SUPPORT,bitext
+"I paid itit for this product, I need to get a rebate",SUPPORT,bitext
+I am trying to receive a compensation,SUPPORT,bitext
+i need assistance demanding compensations of my money,SUPPORT,bitext
+I try to ask fopr a refund of my money,SUPPORT,bitext
+need assistance to obtain a refund of my money,SUPPORT,bitext
+I am trying to request compensations of money,SUPPORT,bitext
+could you help me obtain rebates of money?,SUPPORT,bitext
+i have paid itit for a product where to get my money back,SUPPORT,bitext
+I have got to ask for rebates,SUPPORT,bitext
+rebating  itit,SUPPORT,bitext
+I don't know how to request a refund of money,SUPPORT,bitext
+i want help to get a rebate of my money,SUPPORT,bitext
+i expect a rebate of itit,SUPPORT,bitext
+I am waiting for a restitution of itit,SUPPORT,bitext
+I'm waiting for a restitution of it dollars,SUPPORT,bitext
+I want to know if there are any news on my refund,SUPPORT,bitext
+I expect an refund of it dollars,SUPPORT,bitext
+where do I check the reimbursement current status?,SUPPORT,bitext
+check if there is anything wrong with my damn restitution,SUPPORT,bitext
+I'm waiting for a restitution of it dollars,SUPPORT,bitext
+i expect a rebate of itit,SUPPORT,bitext
+help checking if there is anything new on the bloody rebate,SUPPORT,bitext
+can you help me reporting problems with online payment?,SUPPORT,bitext
+assistance to notify of issues with online payments,SUPPORT,bitext
+i cant make payments how to inform of issues with payment,SUPPORT,bitext
+"I cannot make a payment, I want help to report a problem",SUPPORT,bitext
+how do I notify of an issue with payment?,SUPPORT,bitext
+where do i inform of a trouble with payments,SUPPORT,bitext
+"the payment did not go through, report an error",SUPPORT,bitext
+"the payment failed, how to report an error with payment?",SUPPORT,bitext
+i dont know what i have to do to report issues with payments,SUPPORT,bitext
+notify of trouble with online payments,SUPPORT,bitext
+I cannot afford purchase it,SUPPORT,bitext
+"I have bought some item, I have to cancel order it",SUPPORT,bitext
+"I do not want this item, cancel order it",SUPPORT,bitext
+I need assistance with canceling purchase it,SUPPORT,bitext
+were can i cancel purchase it,SUPPORT,bitext
+want assistance to cancel order it,SUPPORT,bitext
+I don't know what to do to cancel purchase it,SUPPORT,bitext
+i cannot pay for my last item cancel order it,SUPPORT,bitext
+I want help to cancel purchase it,SUPPORT,bitext
+I need help with cancelling purhase it,SUPPORT,bitext
+I have to delete several items from purchase it,SUPPORT,bitext
+updating purchase it,SUPPORT,bitext
+update purchase00123842,SUPPORT,bitext
+I want assistance editing purchase  it,SUPPORT,bitext
+I have to delete an item from order it,SUPPORT,bitext
+i need information about correcting purchase it,SUPPORT,bitext
+update purcahse it,SUPPORT,bitext
+help switching something of purchase it,SUPPORT,bitext
+I cannot add a product to purchase it,SUPPORT,bitext
+editing order it,SUPPORT,bitext
+I can't speak iwth an operator,SUPPORT,bitext
+I want help to talk with a human agent,SUPPORT,bitext
+i try to talk with a person,SUPPORT,bitext
+can you help me talking with someone?,SUPPORT,bitext
+i want help talking with a human agent,SUPPORT,bitext
+assistance contacting a person,SUPPORT,bitext
+want assistance talking to an operator,SUPPORT,bitext
+i want help talking with an assistat,SUPPORT,bitext
+want help to speak to someone,SUPPORT,bitext
+talking to agent,SUPPORT,bitext
+help to check what hours customer assistance available is,SUPPORT,bitext
+where do I check what hours I can reach customer service?,SUPPORT,bitext
+how do I see at what time customer assistance available is?,SUPPORT,bitext
+I do not know how to get in touch with customer assistance,SUPPORT,bitext
+could i get in touchwith customer service,SUPPORT,bitext
+want help to check what hours i cancall customer service,SUPPORT,bitext
+I'm trying to check what hours i can reach customer suport,SUPPORT,bitext
+"I have to speak with customer support, how can I do it?",SUPPORT,bitext
+wannaspeak with customer service can ya help me,SUPPORT,bitext
+where to see what hours I can contact customer support?,SUPPORT,bitext
+new it acount for wife,OTHER,bitext
+help me creating a freemium account,OTHER,bitext
+i have a problem with opening a it account,OTHER,bitext
+i aint registered yet assistance creating a it account,OTHER,bitext
+open pro account for wife,OTHER,bitext
+i do not know how to create a it account,OTHER,bitext
+"I don't have a bloody standard account, can I open one?",OTHER,bitext
+create new it account for daughter,OTHER,bitext
+another premium account for father,OTHER,bitext
+want assistance opening a platinum account for my dad,OTHER,bitext
+new it acount,OTHER,bitext
+want assistance opening a standard account,OTHER,bitext
+I want assistance removing my goddamn platinum account,OTHER,bitext
+i want help to close my it accouny,OTHER,bitext
+could uhelp me close a freemium account,OTHER,bitext
+I have a question about the deletion of my it account,OTHER,bitext
+"I don't need my damn standard account, I have to remove it",OTHER,bitext
+I do not know what I have to do to remove a it account,OTHER,bitext
+is it possible to delete the standard account?,OTHER,bitext
+how can I delete the standard account?,OTHER,bitext
+i do not nkow how to delete the premium account,OTHER,bitext
+remove platinum account,OTHER,bitext
+remove it account,OTHER,bitext
+I don't know what to do to close a pro accoount,OTHER,bitext
+update information on it account,OTHER,bitext
+how to correct some of the details on my user profile,OTHER,bitext
+correcting information on premium account,OTHER,bitext
+update details on premium account,OTHER,bitext
+how to update the info on my user profile?,OTHER,bitext
+changing data on standard  account,OTHER,bitext
+help to change soe of the details on my profile,OTHER,bitext
+correcting data on platinum account,OTHER,bitext
+editing freemium  account,OTHER,bitext
+I'd like to edit the data included on my user i need help,OTHER,bitext
+update details on freemium account,OTHER,bitext
+correct details on it account,OTHER,bitext
+can you help me recover the key of my profile?,OTHER,bitext
+I need help restoring the PIN of my profile,OTHER,bitext
+where can i get information about the pwd reset,OTHER,bitext
+I am looking for information about a forgotten key,OTHER,bitext
+i have to resdet my user pin code,OTHER,bitext
+want assistance to retrieve the pin code of my user profile,OTHER,bitext
+i need information about a pwd recovery,OTHER,bitext
+i need help to reset the pwd of m account,OTHER,bitext
+I try to restore my user profile PIN,OTHER,bitext
+I don't know what to do to reset my user PIN code,OTHER,bitext
+I need to reset my damn PIN code,OTHER,bitext
+I want to retrieve the password of my user account,OTHER,bitext
+i dont know how to report signup issues,OTHER,bitext
+assistance opening user account,OTHER,bitext
+need assistance to notify of errors with a registration,OTHER,bitext
+help to  inform of a problem with a registration,OTHER,bitext
+"I cannot open a user, I have to inform of a signup issue",OTHER,bitext
+help me to inform of a registration issue,OTHER,bitext
+i cannot sign up i need to report sign-up problems,OTHER,bitext
+i want help regarding my sign-up,OTHER,bitext
+assistance informing of an error with a signup,OTHER,bitext
+help me to informof an issue with a registration,OTHER,bitext
+where can I report issues with sign-up?,OTHER,bitext
+notifying of issues with sign-up,OTHER,bitext
+how to use tye it account?,OTHER,bitext
+i cant switch to the premium account,OTHER,bitext
+I do not know how I can change to the it account,OTHER,bitext
+can I use the it profile?,OTHER,bitext
+what do i need to do to use the premium profile,OTHER,bitext
+can I change to the it account?,OTHER,bitext
+I want assistance switching to the premium account,OTHER,bitext
+i need assistance switching to the it account,OTHER,bitext
+help changing to the it account,OTHER,bitext
+i want help to use the it profile,OTHER,bitext
+I need assistance using the it profile,OTHER,bitext
+i have to use the it account,OTHER,bitext
+i want assistance unsubscribing from the newsletter,OTHER,bitext
+"I need to unsubscribe from the newsletter, can yyou help me?",OTHER,bitext
+can uhelp me subscribe to ur newsletter,OTHER,bitext
+I acn't unsubscribe to your company newsletter,OTHER,bitext
+I want help receoving the newsletter,OTHER,bitext
+information about receiving your company newsletter,OTHER,bitext
+"I have to receive your corporate newsletter, help me",OTHER,bitext
+can I unsubscribe to your corporate newsletter?,OTHER,bitext
+I need to receive thecorporate newsletter,OTHER,bitext
+I can't receive the company newsletter,OTHER,bitext
+wanna nusubscribe from the company newsletter,OTHER,bitext
+help me checking the status of my newsletter subscription,OTHER,bitext
+I need assistance to take a quick look at bill #85632,OTHER,bitext
+hepp seeing the bill from it,OTHER,bitext
+how do I check my bill from it?,OTHER,bitext
+want assistance to give a quick look at the invoice #12588,OTHER,bitext
+I don't know what to do ti see my invoice from it,OTHER,bitext
+chcek bills from it,OTHER,bitext
+I can't locate my invoices from it,OTHER,bitext
+need to chek my bill #85632 how to do it,OTHER,bitext
+check invoices from last purchase,OTHER,bitext
+wanna find the invoices from it how can i do it,OTHER,bitext
+I need help taking a quick look at my bill #37777,OTHER,bitext
+where do I locate my invoice #12588?,OTHER,bitext
+i have got to get bill #37777 how to do it,OTHER,bitext
+i do not know what i need to do to get my invoice #85632,OTHER,bitext
+assistance to get my bills from it,OTHER,bitext
+what do i need to do to get my invoices from it,OTHER,bitext
+what od i have to do to download bill #00108,OTHER,bitext
+I want assistance downloading invoice #00108,OTHER,bitext
+I don't know what to do to download my invoice #12588,OTHER,bitext
+I need help downloading the bills from it,OTHER,bitext
+i dont know what i need to do to download invoice #12588,OTHER,bitext
+mail me my invoices from it,OTHER,bitext
+i do not know how to download my bill #00108,OTHER,bitext
+get invoice #12588,OTHER,bitext
+can I see what payment methods are available?,OTHER,bitext
+I want assistance to check the goddamn payment methods,OTHER,bitext
+I don't know how I can list the allowed payment methods,OTHER,bitext
+i want assistance to list the payment methods,OTHER,bitext
+can you tell me your damn payment methods?,OTHER,bitext
+assistance to list your paymernt modalities,OTHER,bitext
+see your payment modalities,OTHER,bitext
+can you tell me your allowed payment modalities?,OTHER,bitext
+where can I see what payment methods are accepted?,OTHER,bitext
+"I have to list the payment modalities, I need assistance",OTHER,bitext
+need assistance seeing ur accepted payment modalities,OTHER,bitext
+how can I list your available payment methods?,OTHER,bitext
+I am calling to leave my feedback for your products,OTHER,bitext
+want help sending feedback about a service,OTHER,bitext
+i call to write an opinion about an product,OTHER,bitext
+is there a method to submit a review for ur company,OTHER,bitext
+do you have a method to leave a review about a service?,OTHER,bitext
+"I need to send some feedback for a service, how to do it?",OTHER,bitext
+I do not know how I can send some feedback for your company,OTHER,bitext
+I have got to submit my feedback,OTHER,bitext
+help me writing a comment for a service,OTHER,bitext
+is there a e-mail to send my feedback for your products?,OTHER,bitext
+do you have an address to send a review?,OTHER,bitext
+I do not know how to leave an opinion for a service,OTHER,bitext
+I want assistance doing a purchase,OTHER,bitext
+"I have to shop a few of your product, how could I do it?",OTHER,bitext
+I have to buy some of yout item,OTHER,bitext
+need assistance purchasing some of ur article,OTHER,bitext
+i dont know what i have to do to buy an article,OTHER,bitext
+where to earn several of your product?,OTHER,bitext
+I don't know what I have to do to shop a few of your item,OTHER,bitext
+I need help acquiringv several of your item,OTHER,bitext
+I want help to earn something,OTHER,bitext
+"I need to shop a few of your product, how can I do it?",OTHER,bitext
+what do I need to do to buy several items?,OTHER,bitext
+needto do a purchase can i get some help,OTHER,bitext
+there is an issue trying to update the address,OTHER,bitext
+I cannot edit my delivery address,OTHER,bitext
+I want assistance updating my delivery address,OTHER,bitext
+i want information about correcting the shiping address,OTHER,bitext
+"I entered a wrong delivery address, help me editing it",OTHER,bitext
+I have a trouble correcing the address,OTHER,bitext
+I have an error updating my address,OTHER,bitext
+problems with a delivery address modification,OTHER,bitext
+"I want to modify the address, how can I do it?",OTHER,bitext
+"I have entered a wrong delivery address, help me changing it",OTHER,bitext
+"I want to correct my delivery address, how do I do it?",OTHER,bitext
+there is a trouble correcting my delivery adxdress,OTHER,bitext
+i want help submitting a different delivery address,OTHER,bitext
+error submitting my shipping address,OTHER,bitext
+there is a trouble setting another delivery address up,OTHER,bitext
+there is an issue submitting the new delivery address,OTHER,bitext
+"I have to enter the shipping address, how do I do it?",OTHER,bitext
+I need to submit my delivery address,OTHER,bitext
+"I have got to submit the new shipping address, I need help",OTHER,bitext
+could you help me setting up my new delivery address?,OTHER,bitext
+I need assistance to set the delivery address up,OTHER,bitext
+can you help me setting another delivery addrss up?,OTHER,bitext
+i have problems submitting the secondary shipping address,OTHER,bitext
+I don't know how to submit a delivery address,OTHER,bitext
+What is the warranty on the Markus office chair?,PRODUCT_QA,handwritten
+How long is the warranty for furniture bought from you?,PRODUCT_QA,handwritten
+Does the Tahoe gas fireplace come with a remote control?,PRODUCT_QA,handwritten
+How do I light the pilot on the Tahoe fireplace?,PRODUCT_QA,handwritten
+What clearance does the Drolet Escape 1800 need from walls?,PRODUCT_QA,handwritten
+Can the Drolet stove be installed in a mobile home?,PRODUCT_QA,handwritten
+How big an area can the Drolet wood stove heat?,PRODUCT_QA,handwritten
+What kind of wood should I burn in the Drolet stove?,PRODUCT_QA,handwritten
+How often should the chimney be cleaned for a wood stove?,PRODUCT_QA,handwritten
+Does the Dimplex firebox need a dedicated electrical circuit?,PRODUCT_QA,handwritten
+Can I run the Dimplex flame effect without the heater?,PRODUCT_QA,handwritten
+What is the heat output of the Dimplex electric firebox?,PRODUCT_QA,handwritten
+How do I change the flame colour on the Dimplex?,PRODUCT_QA,handwritten
+Is the Tahoe available for propane or only natural gas?,PRODUCT_QA,handwritten
+What venting does the Tahoe fireplace use?,PRODUCT_QA,handwritten
+Is the glass on the gas fireplace hot to touch?,PRODUCT_QA,handwritten
+How do I clean the glass on my fireplace?,PRODUCT_QA,handwritten
+What are the dimensions of the Bekant conference table?,PRODUCT_QA,handwritten
+How many people can sit at the 280 cm Bekant table?,PRODUCT_QA,handwritten
+Is the Idåsen desk electric sit stand?,PRODUCT_QA,handwritten
+What is the height range of the Skarsta sit/stand desk?,PRODUCT_QA,handwritten
+Does the Markus chair have adjustable armrests?,PRODUCT_QA,handwritten
+What is the weight limit of the office chair?,PRODUCT_QA,handwritten
+How do I adjust the seat height on my office chair?,PRODUCT_QA,handwritten
+How do I lock the recline on the chair?,PRODUCT_QA,handwritten
+What does error code E01 mean on a standing desk?,PRODUCT_QA,handwritten
+How do I reset a height adjustable desk?,PRODUCT_QA,handwritten
+Which drawer unit has a lock?,PRODUCT_QA,handwritten
+Is the Alex drawer unit on castors?,PRODUCT_QA,handwritten
+What is the price of the Långfjäll conference chair?,PRODUCT_QA,handwritten
+How much does the Tahoe fireplace cost?,PRODUCT_QA,handwritten
+Do you have conference chairs with armrests?,PRODUCT_QA,handwritten
+Which desks do you have under 15000?,PRODUCT_QA,handwritten
+What colours does the Flintan chair come in?,PRODUCT_QA,handwritten
+Does the warranty cover commercial use?,PRODUCT_QA,handwritten
+Is the warranty valid if I assembled it myself?,PRODUCT_QA,handwritten
+What does the furniture warranty not cover?,PRODUCT_QA,handwritten
+Do you deliver on weekends?,PRODUCT_QA,handwritten
+Is installation included with delivery?,PRODUCT_QA,handwritten
+What is your return policy on furniture?,PRODUCT_QA,handwritten
+Can I return an item after it has been assembled?,PRODUCT_QA,handwritten
+Is there a restocking fee for returns?,PRODUCT_QA,handwritten
+How many days do I have to report damage after delivery?,PRODUCT_QA,handwritten
+Do you charge for delivery?,PRODUCT_QA,handwritten
+Can the gas fireplace be installed by myself?,PRODUCT_QA,handwritten
+Does the wood stove need an outside air kit?,PRODUCT_QA,handwritten
+What size chimney pipe does the Drolet use?,PRODUCT_QA,handwritten
+Can I burn coal in the wood stove?,PRODUCT_QA,handwritten
+How do I start a fire in the Drolet stove?,PRODUCT_QA,handwritten
+What is the burn time of the Escape 1800?,PRODUCT_QA,handwritten
+Does the electric fireplace work without heat in summer?,PRODUCT_QA,handwritten
+How do I replace the remote battery for the Dimplex?,PRODUCT_QA,handwritten
+Can the Dimplex be plugged into a normal socket?,PRODUCT_QA,handwritten
+What maintenance does a gas fireplace need each year?,PRODUCT_QA,handwritten
+How do I switch off the pilot light for summer?,PRODUCT_QA,handwritten
+Is a carbon monoxide detector required with the gas fireplace?,PRODUCT_QA,handwritten
+What is the BTU rating of the Tahoe?,PRODUCT_QA,handwritten
+Is the Tahoe fireplace safe around children?,PRODUCT_QA,handwritten
+Can the Hattefjäll chair be used for 8 hours a day?,PRODUCT_QA,handwritten
+Is the Järvfjället chair good for back support?,PRODUCT_QA,handwritten
+Do your desks come assembled?,PRODUCT_QA,handwritten
+How long does assembly of the Bekant desk take?,PRODUCT_QA,handwritten
+What tools do I need to assemble the office chair?,PRODUCT_QA,handwritten
+Is the Galant drawer unit compatible with the Bekant desk?,PRODUCT_QA,handwritten
+Which conference table is the biggest you sell?,PRODUCT_QA,handwritten
+Do you sell round meeting tables?,PRODUCT_QA,handwritten
+What's the difference between Idåsen and Bekant desks?,PRODUCT_QA,handwritten
+Can the standing desk hold two monitors?,PRODUCT_QA,handwritten
+Is the gas fireplace vented to outside?,PRODUCT_QA,handwritten
+How hot does the wood stove top get?,PRODUCT_QA,handwritten
+tell me about the dimplex heater settings,PRODUCT_QA,handwritten
+specs of tahoe fireplace,PRODUCT_QA,handwritten
+price of bekant 420 table,PRODUCT_QA,handwritten
+markus chair warranty?,PRODUCT_QA,handwritten
+drolet clearance to combustibles,PRODUCT_QA,handwritten
+Plan furniture for a 30-person office with a 10-seat meeting room under 5 lakh,OFFICE_PLAN,handwritten
+"We are opening an office for 20 people, what do we need to buy?",OFFICE_PLAN,handwritten
+Furnish an office for 15 employees with one conference room,OFFICE_PLAN,handwritten
+"Need desks and chairs for 50 staff, budget 12 lakh",OFFICE_PLAN,handwritten
+Can you plan a layout for a 10 member team?,OFFICE_PLAN,handwritten
+Create a bill of materials for a 25 seat office,OFFICE_PLAN,handwritten
+Quote for 40 workstations and 2 meeting rooms of 8 seats,OFFICE_PLAN,handwritten
+I need to set up a co-working space for 60 people,OFFICE_PLAN,handwritten
+Office setup for 8 people under 2 lakh,OFFICE_PLAN,handwritten
+What furniture would a 35 person office need?,OFFICE_PLAN,handwritten
+Plan an office for 100 employees with 4 meeting rooms,OFFICE_PLAN,handwritten
+Suggest a furniture package for our new branch with 18 staff,OFFICE_PLAN,handwritten
+"We're moving to a new floor for 45 people, plan the furniture",OFFICE_PLAN,handwritten
+Estimate the cost to furnish an office for 12,OFFICE_PLAN,handwritten
+How much will it cost to furnish a 30 seat office?,OFFICE_PLAN,handwritten
+Need complete office furniture for a startup of 6 people,OFFICE_PLAN,handwritten
+"BOM for 22 desks, 22 chairs and a boardroom for 12",OFFICE_PLAN,handwritten
+Plan a call centre for 80 agents,OFFICE_PLAN,handwritten
+"office for 16 people with one 6-seat meeting room, budget 4L",OFFICE_PLAN,handwritten
+furnish 3 meeting rooms with 10 seats each,OFFICE_PLAN,handwritten
+We need sit stand desks for a team of 14,OFFICE_PLAN,handwritten
+Plan ergonomic setup for 20 developers,OFFICE_PLAN,handwritten
+"Budget office furniture for 25 people, max 3 lakh",OFFICE_PLAN,handwritten
+Premium office setup for 10 executives,OFFICE_PLAN,handwritten
+How many desks and chairs for a 40 person office?,OFFICE_PLAN,handwritten
+Give me a furniture plan for our Bangalore office of 30,OFFICE_PLAN,handwritten
+Design the furniture for a small office of 5 with a meeting table,OFFICE_PLAN,handwritten
+"We hired 20 more people, what furniture should we order?",OFFICE_PLAN,handwritten
+Need a conference room for 16 and 30 workstations,OFFICE_PLAN,handwritten
+Plan a training room for 24 people,OFFICE_PLAN,handwritten
+"Equip a new office with desks, chairs and storage for 28",OFFICE_PLAN,handwritten
+"Office of 50, two boardrooms, budget 15 lakh, plan it",OFFICE_PLAN,handwritten
+what do I need for a 12 seat office,OFFICE_PLAN,handwritten
+workstations for 35 staff plus storage,OFFICE_PLAN,handwritten
+Plan furniture for a law firm with 9 lawyers and a meeting room,OFFICE_PLAN,handwritten
+Set up a hot desking area for 20,OFFICE_PLAN,handwritten
+Can you put together an office package for 7 people under 1.5 lakh?,OFFICE_PLAN,handwritten
+"We need furniture for 3 floors, 30 people each",OFFICE_PLAN,handwritten
+Plan an office in Mumbai for 18 people with a 8 seater meeting room,OFFICE_PLAN,handwritten
+recommend chairs and desks for 10 new joiners,OFFICE_PLAN,handwritten
+Fit out a design studio for 12 designers,OFFICE_PLAN,handwritten
+Plan an office for 30 people with ₹6 lakh budget,OFFICE_PLAN,handwritten
+Need full office interior furniture for 60 seats,OFFICE_PLAN,handwritten
+Plan desks for 15 people and 2 small meeting rooms for 4,OFFICE_PLAN,handwritten
+what will furnishing a 20 member office cost me,OFFICE_PLAN,handwritten
+"Prepare a quotation for office furniture, 26 employees",OFFICE_PLAN,handwritten
+Office layout needed for 11 people,OFFICE_PLAN,handwritten
+plan office 40 ppl 2 conf rooms 10 lakh,OFFICE_PLAN,handwritten
+Bulk order of desks and chairs for our 75 person team,OFFICE_PLAN,handwritten
+We need to furnish a branch office for 9 staff and a manager cabin,OFFICE_PLAN,handwritten
+"My office chair is broken, the lever doesn't work",SUPPORT,handwritten
+The chair keeps sinking down when I sit,SUPPORT,handwritten
+One wheel of my office chair came off,SUPPORT,handwritten
+The armrest on my Markus chair is loose,SUPPORT,handwritten
+The fabric on the chair seat is tearing,SUPPORT,handwritten
+The desk wobbles a lot after assembly,SUPPORT,handwritten
+My standing desk shows error E01 and won't move,SUPPORT,handwritten
+The sit stand desk motor stopped working,SUPPORT,handwritten
+One leg of the Bekant desk is bent,SUPPORT,handwritten
+The drawer unit lock is jammed,SUPPORT,handwritten
+Drawer won't close properly,SUPPORT,handwritten
+The conference table top arrived scratched,SUPPORT,handwritten
+Parts are missing from the desk box,SUPPORT,handwritten
+Screws missing in the chair package,SUPPORT,handwritten
+I received the wrong colour chair,SUPPORT,handwritten
+"Delivery is late by two weeks, where is my table?",SUPPORT,handwritten
+The delivery team damaged my wall,SUPPORT,handwritten
+The pilot light keeps going out on my gas fireplace,SUPPORT,handwritten
+Tahoe fireplace won't ignite,SUPPORT,handwritten
+I smell gas near my fireplace,SUPPORT,handwritten
+There is a gas smell in the living room after turning on the fireplace,SUPPORT,handwritten
+Smoke is coming into the room from my wood stove,SUPPORT,handwritten
+The stove is smoking when I open the door,SUPPORT,handwritten
+The glass on my fireplace cracked,SUPPORT,handwritten
+Fireplace glass shattered,SUPPORT,handwritten
+The Drolet stove door gasket is loose,SUPPORT,handwritten
+My wood stove is not drawing properly,SUPPORT,handwritten
+The Dimplex heater stopped working,SUPPORT,handwritten
+Dimplex remote doesn't respond,SUPPORT,handwritten
+The electric fireplace makes a loud clicking noise,SUPPORT,handwritten
+Flame effect on the Dimplex is not showing,SUPPORT,handwritten
+The electric fireplace trips the breaker,SUPPORT,handwritten
+Burning smell from the electric fireplace,SUPPORT,handwritten
+Sparks coming from the fireplace plug,SUPPORT,handwritten
+The CO alarm went off near the fireplace,SUPPORT,handwritten
+The gas fireplace blower is noisy,SUPPORT,handwritten
+Soot is building up on the fireplace glass,SUPPORT,handwritten
+Fireplace turns off by itself after a few minutes,SUPPORT,handwritten
+The chair base cracked,SUPPORT,handwritten
+The gas lift on my chair failed,SUPPORT,handwritten
+Desk height keeps changing on its own,SUPPORT,handwritten
+I want to raise a complaint about a defective chair,SUPPORT,handwritten
+Need a technician to look at my fireplace,SUPPORT,handwritten
+Please send someone to repair my stove urgently,SUPPORT,handwritten
+My chair squeaks every time I lean back,SUPPORT,handwritten
+The recline lock on my chair is broken,SUPPORT,handwritten
+Table legs are uneven,SUPPORT,handwritten
+The storage cabinet door fell off,SUPPORT,handwritten
+Locker key is not working,SUPPORT,handwritten
+chair broken need replacement,SUPPORT,handwritten
+fireplace not working,SUPPORT,handwritten
+stove leaking smoke,SUPPORT,handwritten
+gas leak!!,SUPPORT,handwritten
+desk motor dead,SUPPORT,handwritten
+ordered 10 chairs got only 8,SUPPORT,handwritten
+My order arrived damaged,SUPPORT,handwritten
+The thermostat on the gas fireplace is not working,SUPPORT,handwritten
+The wood stove glass turns black quickly,SUPPORT,handwritten
+The fireplace makes a whistling sound,SUPPORT,handwritten
+Paint is peeling off my stove,SUPPORT,handwritten
+hi,OTHER,handwritten
+hello,OTHER,handwritten
+hey there,OTHER,handwritten
+good morning,OTHER,handwritten
+thanks,OTHER,handwritten
+thank you so much,OTHER,handwritten
+ok bye,OTHER,handwritten
+who are you?,OTHER,handwritten
+what can you do?,OTHER,handwritten
+are you a bot?,OTHER,handwritten
+what's the weather today,OTHER,handwritten
+tell me a joke,OTHER,handwritten
+what time do you open?,OTHER,handwritten
+where is your showroom?,OTHER,handwritten
+do you have a store in Delhi?,OTHER,handwritten
+can I talk in Hindi?,OTHER,handwritten
+how are you,OTHER,handwritten
+cool,OTHER,handwritten
+never mind,OTHER,handwritten
+I just wanted to say great service,OTHER,handwritten
+what is the capital of France,OTHER,handwritten
+can you write me a poem,OTHER,handwritten
+test,OTHER,handwritten
+asdf,OTHER,handwritten
+are you open on Sunday?,OTHER,handwritten

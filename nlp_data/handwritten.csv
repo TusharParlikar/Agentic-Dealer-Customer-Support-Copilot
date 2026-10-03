@@ -1,0 +1,211 @@
+text,intent
+"What is the warranty on the Markus office chair?",PRODUCT_QA
+"How long is the warranty for furniture bought from you?",PRODUCT_QA
+"Does the Tahoe gas fireplace come with a remote control?",PRODUCT_QA
+"How do I light the pilot on the Tahoe fireplace?",PRODUCT_QA
+"What clearance does the Drolet Escape 1800 need from walls?",PRODUCT_QA
+"Can the Drolet stove be installed in a mobile home?",PRODUCT_QA
+"How big an area can the Drolet wood stove heat?",PRODUCT_QA
+"What kind of wood should I burn in the Drolet stove?",PRODUCT_QA
+"How often should the chimney be cleaned for a wood stove?",PRODUCT_QA
+"Does the Dimplex firebox need a dedicated electrical circuit?",PRODUCT_QA
+"Can I run the Dimplex flame effect without the heater?",PRODUCT_QA
+"What is the heat output of the Dimplex electric firebox?",PRODUCT_QA
+"How do I change the flame colour on the Dimplex?",PRODUCT_QA
+"Is the Tahoe available for propane or only natural gas?",PRODUCT_QA
+"What venting does the Tahoe fireplace use?",PRODUCT_QA
+"Is the glass on the gas fireplace hot to touch?",PRODUCT_QA
+"How do I clean the glass on my fireplace?",PRODUCT_QA
+"What are the dimensions of the Bekant conference table?",PRODUCT_QA
+"How many people can sit at the 280 cm Bekant table?",PRODUCT_QA
+"Is the Idåsen desk electric sit stand?",PRODUCT_QA
+"What is the height range of the Skarsta sit/stand desk?",PRODUCT_QA
+"Does the Markus chair have adjustable armrests?",PRODUCT_QA
+"What is the weight limit of the office chair?",PRODUCT_QA
+"How do I adjust the seat height on my office chair?",PRODUCT_QA
+"How do I lock the recline on the chair?",PRODUCT_QA
+"What does error code E01 mean on a standing desk?",PRODUCT_QA
+"How do I reset a height adjustable desk?",PRODUCT_QA
+"Which drawer unit has a lock?",PRODUCT_QA
+"Is the Alex drawer unit on castors?",PRODUCT_QA
+"What is the price of the Långfjäll conference chair?",PRODUCT_QA
+"How much does the Tahoe fireplace cost?",PRODUCT_QA
+"Do you have conference chairs with armrests?",PRODUCT_QA
+"Which desks do you have under 15000?",PRODUCT_QA
+"What colours does the Flintan chair come in?",PRODUCT_QA
+"Does the warranty cover commercial use?",PRODUCT_QA
+"Is the warranty valid if I assembled it myself?",PRODUCT_QA
+"What does the furniture warranty not cover?",PRODUCT_QA
+"Do you deliver on weekends?",PRODUCT_QA
+"Is installation included with delivery?",PRODUCT_QA
+"What is your return policy on furniture?",PRODUCT_QA
+"Can I return an item after it has been assembled?",PRODUCT_QA
+"Is there a restocking fee for returns?",PRODUCT_QA
+"How many days do I have to report damage after delivery?",PRODUCT_QA
+"Do you charge for delivery?",PRODUCT_QA
+"Can the gas fireplace be installed by myself?",PRODUCT_QA
+"Does the wood stove need an outside air kit?",PRODUCT_QA
+"What size chimney pipe does the Drolet use?",PRODUCT_QA
+"Can I burn coal in the wood stove?",PRODUCT_QA
+"How do I start a fire in the Drolet stove?",PRODUCT_QA
+"What is the burn time of the Escape 1800?",PRODUCT_QA
+"Does the electric fireplace work without heat in summer?",PRODUCT_QA
+"How do I replace the remote battery for the Dimplex?",PRODUCT_QA
+"Can the Dimplex be plugged into a normal socket?",PRODUCT_QA
+"What maintenance does a gas fireplace need each year?",PRODUCT_QA
+"How do I switch off the pilot light for summer?",PRODUCT_QA
+"Is a carbon monoxide detector required with the gas fireplace?",PRODUCT_QA
+"What is the BTU rating of the Tahoe?",PRODUCT_QA
+"Is the Tahoe fireplace safe around children?",PRODUCT_QA
+"Can the Hattefjäll chair be used for 8 hours a day?",PRODUCT_QA
+"Is the Järvfjället chair good for back support?",PRODUCT_QA
+"Do your desks come assembled?",PRODUCT_QA
+"How long does assembly of the Bekant desk take?",PRODUCT_QA
+"What tools do I need to assemble the office chair?",PRODUCT_QA
+"Is the Galant drawer unit compatible with the Bekant desk?",PRODUCT_QA
+"Which conference table is the biggest you sell?",PRODUCT_QA
+"Do you sell round meeting tables?",PRODUCT_QA
+"What's the difference between Idåsen and Bekant desks?",PRODUCT_QA
+"Can the standing desk hold two monitors?",PRODUCT_QA
+"Is the gas fireplace vented to outside?",PRODUCT_QA
+"How hot does the wood stove top get?",PRODUCT_QA
+"tell me about the dimplex heater settings",PRODUCT_QA
+"specs of tahoe fireplace",PRODUCT_QA
+"price of bekant 420 table",PRODUCT_QA
+"markus chair warranty?",PRODUCT_QA
+"drolet clearance to combustibles",PRODUCT_QA
+"Plan furniture for a 30-person office with a 10-seat meeting room under 5 lakh",OFFICE_PLAN
+"We are opening an office for 20 people, what do we need to buy?",OFFICE_PLAN
+"Furnish an office for 15 employees with one conference room",OFFICE_PLAN
+"Need desks and chairs for 50 staff, budget 12 lakh",OFFICE_PLAN
+"Can you plan a layout for a 10 member team?",OFFICE_PLAN
+"Create a bill of materials for a 25 seat office",OFFICE_PLAN
+"Quote for 40 workstations and 2 meeting rooms of 8 seats",OFFICE_PLAN
+"I need to set up a co-working space for 60 people",OFFICE_PLAN
+"Office setup for 8 people under 2 lakh",OFFICE_PLAN
+"What furniture would a 35 person office need?",OFFICE_PLAN
+"Plan an office for 100 employees with 4 meeting rooms",OFFICE_PLAN
+"Suggest a furniture package for our new branch with 18 staff",OFFICE_PLAN
+"We're moving to a new floor for 45 people, plan the furniture",OFFICE_PLAN
+"Estimate the cost to furnish an office for 12",OFFICE_PLAN
+"How much will it cost to furnish a 30 seat office?",OFFICE_PLAN
+"Need complete office furniture for a startup of 6 people",OFFICE_PLAN
+"BOM for 22 desks, 22 chairs and a boardroom for 12",OFFICE_PLAN
+"Plan a call centre for 80 agents",OFFICE_PLAN
+"office for 16 people with one 6-seat meeting room, budget 4L",OFFICE_PLAN
+"furnish 3 meeting rooms with 10 seats each",OFFICE_PLAN
+"We need sit stand desks for a team of 14",OFFICE_PLAN
+"Plan ergonomic setup for 20 developers",OFFICE_PLAN
+"Budget office furniture for 25 people, max 3 lakh",OFFICE_PLAN
+"Premium office setup for 10 executives",OFFICE_PLAN
+"How many desks and chairs for a 40 person office?",OFFICE_PLAN
+"Give me a furniture plan for our Bangalore office of 30",OFFICE_PLAN
+"Design the furniture for a small office of 5 with a meeting table",OFFICE_PLAN
+"We hired 20 more people, what furniture should we order?",OFFICE_PLAN
+"Need a conference room for 16 and 30 workstations",OFFICE_PLAN
+"Plan a training room for 24 people",OFFICE_PLAN
+"Equip a new office with desks, chairs and storage for 28",OFFICE_PLAN
+"Office of 50, two boardrooms, budget 15 lakh, plan it",OFFICE_PLAN
+"what do I need for a 12 seat office",OFFICE_PLAN
+"workstations for 35 staff plus storage",OFFICE_PLAN
+"Plan furniture for a law firm with 9 lawyers and a meeting room",OFFICE_PLAN
+"Set up a hot desking area for 20",OFFICE_PLAN
+"Can you put together an office package for 7 people under 1.5 lakh?",OFFICE_PLAN
+"We need furniture for 3 floors, 30 people each",OFFICE_PLAN
+"Plan an office in Mumbai for 18 people with a 8 seater meeting room",OFFICE_PLAN
+"recommend chairs and desks for 10 new joiners",OFFICE_PLAN
+"Fit out a design studio for 12 designers",OFFICE_PLAN
+"Plan an office for 30 people with ₹6 lakh budget",OFFICE_PLAN
+"Need full office interior furniture for 60 seats",OFFICE_PLAN
+"Plan desks for 15 people and 2 small meeting rooms for 4",OFFICE_PLAN
+"what will furnishing a 20 member office cost me",OFFICE_PLAN
+"Prepare a quotation for office furniture, 26 employees",OFFICE_PLAN
+"Office layout needed for 11 people",OFFICE_PLAN
+"plan office 40 ppl 2 conf rooms 10 lakh",OFFICE_PLAN
+"Bulk order of desks and chairs for our 75 person team",OFFICE_PLAN
+"We need to furnish a branch office for 9 staff and a manager cabin",OFFICE_PLAN
+"My office chair is broken, the lever doesn't work",SUPPORT
+"The chair keeps sinking down when I sit",SUPPORT
+"One wheel of my office chair came off",SUPPORT
+"The armrest on my Markus chair is loose",SUPPORT
+"The fabric on the chair seat is tearing",SUPPORT
+"The desk wobbles a lot after assembly",SUPPORT
+"My standing desk shows error E01 and won't move",SUPPORT
+"The sit stand desk motor stopped working",SUPPORT
+"One leg of the Bekant desk is bent",SUPPORT
+"The drawer unit lock is jammed",SUPPORT
+"Drawer won't close properly",SUPPORT
+"The conference table top arrived scratched",SUPPORT
+"Parts are missing from the desk box",SUPPORT
+"Screws missing in the chair package",SUPPORT
+"I received the wrong colour chair",SUPPORT
+"Delivery is late by two weeks, where is my table?",SUPPORT
+"The delivery team damaged my wall",SUPPORT
+"The pilot light keeps going out on my gas fireplace",SUPPORT
+"Tahoe fireplace won't ignite",SUPPORT
+"I smell gas near my fireplace",SUPPORT
+"There is a gas smell in the living room after turning on the fireplace",SUPPORT
+"Smoke is coming into the room from my wood stove",SUPPORT
+"The stove is smoking when I open the door",SUPPORT
+"The glass on my fireplace cracked",SUPPORT
+"Fireplace glass shattered",SUPPORT
+"The Drolet stove door gasket is loose",SUPPORT
+"My wood stove is not drawing properly",SUPPORT
+"The Dimplex heater stopped working",SUPPORT
+"Dimplex remote doesn't respond",SUPPORT
+"The electric fireplace makes a loud clicking noise",SUPPORT
+"Flame effect on the Dimplex is not showing",SUPPORT
+"The electric fireplace trips the breaker",SUPPORT
+"Burning smell from the electric fireplace",SUPPORT
+"Sparks coming from the fireplace plug",SUPPORT
+"The CO alarm went off near the fireplace",SUPPORT
+"The gas fireplace blower is noisy",SUPPORT
+"Soot is building up on the fireplace glass",SUPPORT
+"Fireplace turns off by itself after a few minutes",SUPPORT
+"The chair base cracked",SUPPORT
+"The gas lift on my chair failed",SUPPORT
+"Desk height keeps changing on its own",SUPPORT
+"I want to raise a complaint about a defective chair",SUPPORT
+"Need a technician to look at my fireplace",SUPPORT
+"Please send someone to repair my stove urgently",SUPPORT
+"My chair squeaks every time I lean back",SUPPORT
+"The recline lock on my chair is broken",SUPPORT
+"Table legs are uneven",SUPPORT
+"The storage cabinet door fell off",SUPPORT
+"Locker key is not working",SUPPORT
+"chair broken need replacement",SUPPORT
+"fireplace not working",SUPPORT
+"stove leaking smoke",SUPPORT
+"gas leak!!",SUPPORT
+"desk motor dead",SUPPORT
+"ordered 10 chairs got only 8",SUPPORT
+"My order arrived damaged",SUPPORT
+"The thermostat on the gas fireplace is not working",SUPPORT
+"The wood stove glass turns black quickly",SUPPORT
+"The fireplace makes a whistling sound",SUPPORT
+"Paint is peeling off my stove",SUPPORT
+"hi",OTHER
+"hello",OTHER
+"hey there",OTHER
+"good morning",OTHER
+"thanks",OTHER
+"thank you so much",OTHER
+"ok bye",OTHER
+"who are you?",OTHER
+"what can you do?",OTHER
+"are you a bot?",OTHER
+"what's the weather today",OTHER
+"tell me a joke",OTHER
+"what time do you open?",OTHER
+"where is your showroom?",OTHER
+"do you have a store in Delhi?",OTHER
+"can I talk in Hindi?",OTHER
+"how are you",OTHER
+"cool",OTHER
+"never mind",OTHER
+"I just wanted to say great service",OTHER
+"what is the capital of France",OTHER
+"can you write me a poem",OTHER
+"test",OTHER
+"asdf",OTHER
+"are you open on Sunday?",OTHER
