@@ -1,0 +1,17 @@
+python-dotenv
+langchain-ollama
+langchain-community
+langchain-text-splitters
+langgraph
+faiss-cpu
+pypdf
+pandas
+spacy
+scikit-learn
+fastapi
+uvicorn
+streamlit
+requests
+fpdf2
+pytest
+httpx
